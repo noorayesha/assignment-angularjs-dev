@@ -1,4 +1,4 @@
-# Assignment for an AngularJs Developer
+# Assignment for a Frontend AngularJs Developer
 
 ## Assignment Details
 * Create a simple program which fetches the exchange rate of all crypto currencies in USD and displays them using Bar Chart
